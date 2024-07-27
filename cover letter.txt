@@ -1,14 +1,21 @@
 
 
-Hello,
+Dear Sir,
 
-Hope you're doing well! I came across your job listing and was immediately drawn to it. With a strong background in data science and machine learning, along with expertise in Python, C#, SQL, HTML, CSS, DOT.NET, and ASP.NET, I believe I could be a great fit for your project.
+I am writing to express my enthusiasm for the Position of Junior Data Scientist at Afiniti, as advertised on Linkdin. As a final-semester Computer Science student with a focus on machine learning and data science, I am eager to apply my skills and knowledge to contribute to your innovative team.
 
-I've tackled similar challenges before, leveraging Python libraries like pandas, numpy, matplotlib, and seaborn to develop actionable insights and predictive models. My goal is always to deliver high-quality results that align with your project's objectives.
+Throughout my academic career, I have developed a strong foundation in computer science and honed my abilities in various key areas, including Python programming, data visualization, and data analysis. I have completed several projects that have provided me with practical experience in machine learning and data science. These projects include:
 
-I'm particularly excited about the opportunity to Data Scientist Intern. I'm confident that my skills and experience can contribute to its success.
+1. **Titanic Data Set**: I have got 76% accuracy using Logistic regression in Python.
+2. **Grocery Sales Prediction**: I have used this data in my Final Year Project Stockifistic, a Distribution and Sales Analysis Application.
+3. **Hospital Management system**: A website for hospitals using ASP.Net and SQl data base.
 
-Looking forward to the possibility of working together!
+In addition to my technical skills, I am proficient in using Power BI and Tableau for data visualization, which allows me to present complex data insights in a clear and comprehensible manner. My ability to analyze and interpret data to drive decision-making processes is one of my key strengths.
 
-Best,
+I am particularly excited about the opportunity at your Company. I am confident that my background, combined with my passion for machine learning and data science, will enable me to make valuable contributions to your team.
+
+I look forward to the possibility of discussing how my skills and experiences align with the needs of your organization. Thank you for considering my application. I am eager to bring my expertise to your Company and contribute to your continued success.
+
+Sincerely,
+
 Muhammad Kashif
